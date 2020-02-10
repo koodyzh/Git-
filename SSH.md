@@ -2,6 +2,7 @@
 为实现本地和远程仓库之间免密钥登录，需要配置SSH
 
 ### 配置SSH，先在本地配置，再发送给远程
+
 1. 在本地生成SSH
 运行以下命令：
 > $ ssh-keygen -t rsa -C koodyzh@icloud.com
